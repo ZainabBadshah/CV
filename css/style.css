@@ -1,0 +1,48 @@
+h2 {
+    background-color: blueviolet;
+    color: chartreuse;
+}
+.bacon {
+    background-color: green;
+    border-top: black;
+    border-width: 5;
+    border-style: dotted;
+
+}
+.mango {
+    background-color: coral;
+}
+
+.mango:hover{
+    background-color: darkcyan;
+    border-style: dotted;
+    border-left-color: darkgreen;
+    border-right-color: yellow;
+    box-shadow: red;
+}
+ .bacon:hover{
+     background-color: pink;
+ }
+
+ #b1{
+     color: yellowgreen;
+     font-style: italic;
+     font-weight: 700;
+
+ }
+ #b2{
+     color: linen;
+     background: royalblue;
+
+ }
+ #b3{
+     color: blue;
+     text-decoration: underline;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: oblique;
+     font-size: 50;
+ }
+ #b2:hover{
+     text-decoration: none;
+     color: brown;
+ }
